@@ -43,7 +43,7 @@ After installation, you can use the Palindrome Checker as follows:
   Enter the string you want to check when prompted.
 
 3. **View the Result**:
-  The program will output whether the given string is a palindrome or not.
+The program will output whether the given string is a palindrome or not.
 
 ## Demo
 
