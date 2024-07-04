@@ -33,7 +33,7 @@ Follow the steps below to install and run the Palindrome Checker on your local m
   
 ## Usage
 
-After installation, you can use the Palindrome Checker as follows:
+After installation, you can use the Telephone_Number as follows:
 
 1. *Run the Program*:
   Open index.html from the root folder in your web browser.
@@ -42,11 +42,11 @@ After installation, you can use the Palindrome Checker as follows:
   Enter the string you want to check when prompted.
 
 3. **View the Result**:
-The program will output whether the given string is a palindrome or not.
+The program will output whether the given string is a Telephone_Number or not.
 
 ## Demo
 
-![Demo](https://github.com/Marwa-Sadat/-Palindrome_-Checker/assets/168111110/83e8bab0-4737-46bb-a56a-2b946cc94373)
+![Demo](https://github.com/Marwa-Sadat/Telephone_Number/assets/168111110/7dcaedf8-877b-468b-8c13-984e9ee09802)
 
 ## Contributing
 
@@ -63,7 +63,7 @@ We welcome contributions to this project! If you have an idea for a new feature 
 
 3. **Create a New Branch**:
   bash
-  git checkout -b feature/-Palindrome_-Checkerg
+  git checkout -b feature/Telephone_Number
   
 
 4. **Make Your Changes**:
