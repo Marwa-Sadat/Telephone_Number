@@ -1,12 +1,11 @@
+# Telephone_Number
 
-# Palindrome Checker
-
-A simple and efficient Palindrome Checker written in [Your Programming Language]. This tool allows users to check if a given string is a palindrome (a word, phrase, number, or other sequence of characters that reads the same forward and backward, ignoring spaces, punctuation, and capitalization).
+The "Telephone Number" project is a comprehensive tool designed to handle various tasks related to telephone numbers. It includes features for validating, formatting, and parsing phone numbers from different regions. The project aims to ensure that phone numbers are correctly formatted and adhere to international standards. It also provides functionalities for extracting information such as country codes and carrier details. Built with Python, this tool is ideal for developers who need to integrate phone number processing capabilities into their applications. The user-friendly design makes it accessible for both novice and experienced programmers.
 
 ## Features
 
-- **Easy to Use**: Simple interface to check palindromes.
-- **Efficient**: Fast and reliable palindrome checking algorithm.
+- **Easy to Use**: Simple interface to check Telephone Number.
+- **Efficient**: Fast and reliable Telephone Number checking algorithm.
 - **Cross-Platform**: Works on all major operating systems.
 - **Extensible**: Easy to modify and extend according to your needs.
 
@@ -29,7 +28,7 @@ Follow the steps below to install and run the Palindrome Checker on your local m
 
 1. **Clone the Repository**:
   bash
-  git clone https://github.com/Marwa-Sadat/-Palindrome_-Checker.git
+  git clone https://github.com/Marwa-Sadat/Telephone_Number.git
   cd palindrome-checker
   
 ## Usage
@@ -58,7 +57,7 @@ We welcome contributions to this project! If you have an idea for a new feature 
 
 2. **Clone Your Fork**:
   bash
-  git clone https://github.com/Marwa-Sadat/-Palindrome_-Checker.git
+  git clone https://github.com/Marwa-Sadat/Telephone_Number.git
   cd palindrome-checker
   
 
@@ -77,7 +76,7 @@ We welcome contributions to this project! If you have an idea for a new feature 
 
 6. **Push to Your Fork**:
   bash
-  git push origin feature/your-feature-name
+  git push origin feature/Telephone_Number
   
 
 7. **Open a Pull Request**:
