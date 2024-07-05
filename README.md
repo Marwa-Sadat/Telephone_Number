@@ -46,7 +46,7 @@ The program will output whether the given string is a Telephone_Number or not.
 
 ## Demo
 
-![Demo](https://github.com/Marwa-Sadat/Telephone_Number/assets/168111110/7dcaedf8-877b-468b-8c13-984e9ee09802)
+![Demo](https://github.com/Marwa-Sadat/Telephone_Number/assets/168111110/8452c9ef-2822-4ff9-9948-308115e3e49f)
 
 ## Contributing
 
@@ -58,7 +58,7 @@ We welcome contributions to this project! If you have an idea for a new feature 
 2. **Clone Your Fork**:
   bash
   git clone https://github.com/Marwa-Sadat/Telephone_Number.git
-  cd palindrome-checker
+  cd Telephone_Number
   
 
 3. **Create a New Branch**:
