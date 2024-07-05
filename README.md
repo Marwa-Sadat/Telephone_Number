@@ -18,7 +18,7 @@ The "Telephone Number" project is a comprehensive tool designed to handle variou
 
 ## Installation
 
-Follow the steps below to install and run the Palindrome Checker on your local machine.
+Follow the steps below to install and run the Telephone_Number on your local machine.
 
 ### Prerequisites
 
@@ -29,7 +29,7 @@ Follow the steps below to install and run the Palindrome Checker on your local m
 1. **Clone the Repository**:
   bash
   git clone https://github.com/Marwa-Sadat/Telephone_Number.git
-  cd palindrome-checker
+  cd Telephone_Number
   
 ## Usage
 
